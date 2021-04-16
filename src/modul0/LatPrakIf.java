@@ -1,4 +1,4 @@
-package tugasPraktikum;
+package modul0;
 
 import java.util.Scanner;
 

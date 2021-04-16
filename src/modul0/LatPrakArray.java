@@ -1,4 +1,4 @@
-package tugasPraktikum;
+package modul0;
 
 public class LatPrakArray {
 
