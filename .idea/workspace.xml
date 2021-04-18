@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< Updated upstream
-    <list default="true" id="2b9a6a8e-3866-43ac-8ac6-eb717a520fbf" name="Default Changelist" comment="" />
-=======
+
     <list default="true" id="2b9a6a8e-3866-43ac-8ac6-eb717a520fbf" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/Modul00_LatPrak/LatPrak1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -14,7 +12,11 @@
       <change beforePath="$PROJECT_DIR$/src/modul0/LatPrakWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/modul00/tugas/TugasPraktikum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul01_Tugas/TugasPraktikum.java" afterDir="false" />
     </list>
->>>>>>> Stashed changes
+
+    <list default="true" id="2b9a6a8e-3866-43ac-8ac6-eb717a520fbf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +30,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Modul01" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1r1aIpQftexV1DlySPXbM2z6Os8" />
@@ -38,6 +45,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/modul5" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,5 +63,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1618148074098" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1618626669551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1618626669551" />
   </component>
 </project>
