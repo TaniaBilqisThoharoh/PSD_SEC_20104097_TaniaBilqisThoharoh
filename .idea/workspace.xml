@@ -1,22 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-
-    <list default="true" id="2b9a6a8e-3866-43ac-8ac6-eb717a520fbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Modul00_LatPrak/LatPrak1.java" afterDir="false" />
+    <list default="true" id="14a66edc-092b-4b18-95a9-c3537168a5fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul01/Program1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul01/Program2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul01/Program3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul01/Program4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul01/Tugas03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul02/Pro1_MaxSum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul02/Pro2_MaxSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul02/Pro3_MaxSum3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul02/Pro4_MaxSum4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul02/Program1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul02/Program2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul02/Program3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul02/Program4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modul0/LatPrakArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modul0/LatPrakFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modul0/LatPrakIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modul0/LatPrakSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modul0/LatPrakWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modul00/tugas/TugasPraktikum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul01_Tugas/TugasPraktikum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/Prak1/TaniaBilqis/Program1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/Prak1/TaniaBilqis/Program2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/Prak1/TaniaBilqis/Program3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/Prak1/TaniaBilqis/Program4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/Prak1/TaniaBilqis/Tugas03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/prak2/TaniaBilqis/Pro1_MaxSum1.java" beforeDir="false" afterPath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/TaniaBilqis/Pro1_MaxSum1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/prak2/TaniaBilqis/Pro2_MaxSum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/TaniaBilqis/Pro2_MaxSum2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/prak2/TaniaBilqis/Pro3_MaxSum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/TaniaBilqis/Pro3_MaxSum3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/prak2/TaniaBilqis/Pro4_MaxSum4.java" beforeDir="false" afterPath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/TaniaBilqis/Pro4_MaxSum4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/prak2/TaniaBilqis/Program1.java" beforeDir="false" afterPath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/TaniaBilqis/Program1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/prak2/TaniaBilqis/Program2.java" beforeDir="false" afterPath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/TaniaBilqis/Program2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/prak2/TaniaBilqis/Program3.java" beforeDir="false" afterPath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/TaniaBilqis/Program3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/prak2/TaniaBilqis/Program4.java" beforeDir="false" afterPath="$PROJECT_DIR$/TaniaBilqisThoharoh/src/TaniaBilqis/Program4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modul01_Tugas/TugasPraktikum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul00/tugas/TugasPraktikum.java" beforeDir="false" />
     </list>
-
-    <list default="true" id="2b9a6a8e-3866-43ac-8ac6-eb717a520fbf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,13 +65,82 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/modul5" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\GitHub\TaniaBilqisThoharoh\PSD_SEC_20104097_TaniaBilqisThoharoh\TaniaBilqisThoharoh\src" />
+      <recent name="C:\Users\ASUS\Documents\GitHub\TaniaBilqisThoharoh\PSD_SEC_20104097_TaniaBilqisThoharoh\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Program1">
+    <configuration name="Pro4_MaxSum4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul02.Pro4_MaxSum4" />
+      <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prak1.TaniaBilqis.Program1" />
+      <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Prak1.TaniaBilqis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul01.Program1" />
+      <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tugas03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul01.Tugas03" />
+      <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program1" />
+        <item itemvalue="Application.Program1 (1)" />
+        <item itemvalue="Application.Pro4_MaxSum4" />
+        <item itemvalue="Application.Tugas03" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2b9a6a8e-3866-43ac-8ac6-eb717a520fbf" name="Default Changelist" comment="" />
+      <changelist id="14a66edc-092b-4b18-95a9-c3537168a5fc" name="Default Changelist" comment="" />
       <created>1618145981846</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -59,13 +149,28 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1618148074098">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1619232339632">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1618148074098" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1619232339632" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1618626669551">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1618626669551" />
+    <state x="65" y="0" key="new project wizard" timestamp="1619232342429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1619232342429" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/modul00/tugas/TugasPraktikum.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
