@@ -14,7 +14,23 @@
     </list>
 
     <list default="true" id="2b9a6a8e-3866-43ac-8ac6-eb717a520fbf" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/Modul05/Double_LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul05/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul05/Main5_Tania.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul05/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modul01_Tugas/TugasPraktikum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modul4/Mainn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul4/Mainn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul00/tugas/TugasPraktikum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modul00/tugas/TugasPraktikum.java" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
 
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +63,85 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/modul5" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="RunManager" selected="Application.Main5_Tania">
+    <configuration name="LatPrak1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul00_LatPrak.LatPrak1" />
+      <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul00_LatPrak.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main5_Tania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul05.Main5_Tania" />
+      <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mainn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul4.Mainn" />
+      <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prog4_50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul03.Prog4_50" />
+      <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prog4_MencariDeret" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul03.Prog4_MencariDeret" />
+      <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main5_Tania" />
+        <item itemvalue="Application.Mainn" />
+        <item itemvalue="Application.LatPrak1" />
+        <item itemvalue="Application.Prog4_MencariDeret" />
+        <item itemvalue="Application.Prog4_50" />
+      </list>
+    </recent_temporary>
+  </component>
+>>>>>>> Stashed changes
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,13 +154,55 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< Updated upstream
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1618148074098">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1618148074098" />
+=======
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1624108463569">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1624108463569" />
+    <state x="466" y="258" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620373009559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="258" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1620373009558" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1624107011672">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1624107011672" />
+    <state width="1323" height="207" key="GridCell.Tab.0.bottom" timestamp="1624111173285">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624111173285" />
+    <state width="1323" height="207" key="GridCell.Tab.0.center" timestamp="1624111173285">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624111173285" />
+    <state width="1323" height="207" key="GridCell.Tab.0.left" timestamp="1624111173285">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624111173285" />
+    <state width="1323" height="207" key="GridCell.Tab.0.right" timestamp="1624111173285">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624111173285" />
+>>>>>>> Stashed changes
     <state x="184" y="9" key="SettingsEditor" timestamp="1618626669551">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1618626669551" />
+<<<<<<< Updated upstream
+=======
+    <state x="65" y="0" key="new project wizard" timestamp="1624107064820">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1624107064820" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1620373360679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1620373360679" />
+>>>>>>> Stashed changes
   </component>
 </project>
