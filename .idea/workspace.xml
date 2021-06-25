@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-
     <list default="true" id="2b9a6a8e-3866-43ac-8ac6-eb717a520fbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Modul00_LatPrak/LatPrak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul07/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul07/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul07/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul07/Queue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modul0/LatPrakArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modul0/LatPrakFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modul0/LatPrakIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modul0/LatPrakSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modul0/LatPrakWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul00_Tugas/LatPrakWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modul00/tugas/TugasPraktikum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul01_Tugas/TugasPraktikum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul06/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modul06/Node.java" afterDir="false" />
     </list>
-
-    <list default="true" id="2b9a6a8e-3866-43ac-8ac6-eb717a520fbf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -44,8 +37,71 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/modul5" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.Main4 (1)">
+    <configuration name="Main3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul07.Main3" />
+      <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul06.Main3" />
+      <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul07.Main4" />
+      <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul06.Main4" />
+      <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main4 (1)" />
+        <item itemvalue="Application.Main3 (1)" />
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main3" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,10 +115,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1618148074098">
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1624605300309">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1618148074098" />
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1624605300309" />
+    <state x="466" y="258" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620373009559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="258" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1620373009558" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1624107011672">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1624107011672" />
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom" timestamp="1624627289194">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624627289194" />
+    <state width="1323" height="184" key="GridCell.Tab.0.center" timestamp="1624627289193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624627289193" />
+    <state width="1323" height="184" key="GridCell.Tab.0.left" timestamp="1624627289193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624627289193" />
+    <state width="1323" height="184" key="GridCell.Tab.0.right" timestamp="1624627289193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624627289193" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1618626669551">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
