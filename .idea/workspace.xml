@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b9a6a8e-3866-43ac-8ac6-eb717a520fbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Modul08/Entry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modul08/Hashmappp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modul08/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modul08/main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul09/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul09/Method_Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul09/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,20 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/modul5" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.main3">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul09.Main" />
+      <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Modul07.Main3" />
       <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
@@ -80,19 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modul06.Main4" />
-      <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="modul06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Modul08.main3" />
       <module name="PSD_SEC_20104097_TaniaBilqisThoharoh" />
@@ -108,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main3" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main4 (2)" />
+        <item itemvalue="Application.main3" />
         <item itemvalue="Application.Main4 (1)" />
         <item itemvalue="Application.Main3 (1)" />
-        <item itemvalue="Application.Main4" />
       </list>
     </recent_temporary>
   </component>
@@ -140,22 +139,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1624107011672" />
-    <state width="1323" height="512" key="GridCell.Tab.0.bottom" timestamp="1625060740848">
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom" timestamp="1625841292468">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="512" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625060740848" />
-    <state width="1323" height="512" key="GridCell.Tab.0.center" timestamp="1625060740847">
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625841292468" />
+    <state width="1323" height="570" key="GridCell.Tab.0.center" timestamp="1625841292466">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="512" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1625060740847" />
-    <state width="1323" height="512" key="GridCell.Tab.0.left" timestamp="1625060740847">
+    <state width="1323" height="570" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1625841292466" />
+    <state width="1323" height="570" key="GridCell.Tab.0.left" timestamp="1625841292462">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="512" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1625060740847" />
-    <state width="1323" height="512" key="GridCell.Tab.0.right" timestamp="1625060740847">
+    <state width="1323" height="570" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1625841292462" />
+    <state width="1323" height="570" key="GridCell.Tab.0.right" timestamp="1625841292467">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="512" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625060740847" />
+    <state width="1323" height="570" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625841292467" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1618626669551">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
